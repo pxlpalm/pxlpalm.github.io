@@ -1,0 +1,86 @@
+/* General styles */
+body {
+    font-family: 'Roboto', sans-serif;
+    background-color: #fafafa; /* Default background color */
+    margin: 0;
+    padding: 0;
+    color: #262626; /* Text color */
+}
+
+header {
+    background-color: #fff;
+    border-bottom: 1px solid #dbdbdb;
+    padding: 10px 20px;
+    text-align: center;
+    position: fixed;
+    width: 100%;
+    top: 0;
+    z-index: 1000;
+}
+
+header h1 {
+    margin: 0;
+    font-size: 24px;
+    color: #262626;
+    font-family: 'Dancing Script', cursive;
+}
+
+.container {
+    padding-top: 60px;
+    max-width: 600px;
+    margin: 0 auto;
+}
+
+.post-grid {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    justify-content: center;
+    padding: 20px 0;
+}
+
+.post {
+    background-color: #fff;
+    border: 1px solid #dbdbdb;
+    border-radius: 3px;
+    overflow: hidden;
+    width: calc(33.333% - 20px); /* 3 posts per row */
+}
+
+.post img {
+    width: 100%;
+    display: block;
+}
+
+.post .content {
+    padding: 10px;
+}
+
+footer {
+    background-color: #fff;
+    border-top: 1px solid #dbdbdb;
+    text-align: center;
+    padding: 10px 0;
+    position: fixed;
+    width: 100%;
+    bottom: 0;
+    z-index: 1000;
+}
+
+footer p {
+    margin: 0;
+    font-size: 14px;
+    color: #999;
+}
+
+@media (max-width: 768px) {
+    .post {
+        width: calc(50% - 10px); /* 2 posts per row on tablet */
+    }
+}
+
+@media (max-width: 480px) {
+    .post {
+        width: 100%; /* 1 post per row on mobile */
+    }
+}
