@@ -1,17 +1,20 @@
 {
   "files": {
     "main.css": "/static/css/main.345d08ea.css",
-    "main.js": "/static/js/main.2d1f1058.js",
-    "static/media/template.gif": "/static/media/template.37257b9b7c726c85180a.gif",
-    "static/media/template-static.jpg": "/static/media/template-static.cbeee3f5e03ed68d0956.jpg",
-    "static/media/template.png": "/static/media/template.9d487e24713ac4478074.png",
-    "static/media/project1.jpg": "/static/media/project1.cf3184ca8a3ae1c4b17c.jpg",
+    "main.js": "/static/js/main.e99c54ac.js",
+    "static/media/project_pbrmodelviewer.png": "/static/media/project_pbrmodelviewer.e1633fb048a6dd19caa2.png",
+    "static/media/splashscreen.png": "/static/media/splashscreen.a8a8788e08a1172f6b7d.png",
+    "static/media/project_svizz_ico3.png": "/static/media/project_svizz_ico3.55bf7dec014cf21538d0.png",
+    "static/media/project_svizz_anim.gif": "/static/media/project_svizz_anim.da9c845aecb5693dba46.gif",
+    "static/media/project_skinningdatagenerator.png": "/static/media/project_skinningdatagenerator.8014410b82255438fc97.png",
+    "static/media/polypeelr1024.png": "/static/media/polypeelr1024.4c8c060a7188c19c8dda.png",
+    "static/media/project_svizz_ico2.png": "/static/media/project_svizz_ico2.160d55cb66e3e243345d.png",
     "index.html": "/index.html",
     "main.345d08ea.css.map": "/static/css/main.345d08ea.css.map",
-    "main.2d1f1058.js.map": "/static/js/main.2d1f1058.js.map"
+    "main.e99c54ac.js.map": "/static/js/main.e99c54ac.js.map"
   },
   "entrypoints": [
     "static/css/main.345d08ea.css",
-    "static/js/main.2d1f1058.js"
+    "static/js/main.e99c54ac.js"
   ]
 }
