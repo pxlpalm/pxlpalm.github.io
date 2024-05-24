@@ -1,20 +1,29 @@
 {
   "files": {
     "main.css": "/static/css/main.345d08ea.css",
-    "main.js": "/static/js/main.e99c54ac.js",
+    "main.js": "/static/js/main.83aebcbd.js",
     "static/media/project_pbrmodelviewer.png": "/static/media/project_pbrmodelviewer.e1633fb048a6dd19caa2.png",
     "static/media/splashscreen.png": "/static/media/splashscreen.a8a8788e08a1172f6b7d.png",
     "static/media/project_svizz_ico3.png": "/static/media/project_svizz_ico3.55bf7dec014cf21538d0.png",
+    "static/media/project_skinningdatagenerator_loaded.png": "/static/media/project_skinningdatagenerator_loaded.5cbb481212e393317220.png",
+    "static/media/project_pbrmodelviewer2.png": "/static/media/project_pbrmodelviewer2.5ee701752c802bea1542.png",
     "static/media/project_svizz_anim.gif": "/static/media/project_svizz_anim.da9c845aecb5693dba46.gif",
-    "static/media/project_skinningdatagenerator.png": "/static/media/project_skinningdatagenerator.8014410b82255438fc97.png",
+    "static/media/project_skinningdatagenerator_anim1.png": "/static/media/project_skinningdatagenerator_anim1.3ae2cf0a59c9759e7d3b.png",
+    "static/media/project_skinningdatagenerator_anim2.png": "/static/media/project_skinningdatagenerator_anim2.06d8be9554efb140ecda.png",
+    "static/media/project_skinningdatagenerator_anim0.png": "/static/media/project_skinningdatagenerator_anim0.8c07493aeac8fd6eeb2a.png",
     "static/media/polypeelr1024.png": "/static/media/polypeelr1024.4c8c060a7188c19c8dda.png",
+    "static/media/project_pbrmodelviewer_ao.png": "/static/media/project_pbrmodelviewer_ao.6e40081c4223ab6ab87c.png",
+    "static/media/project_pbrmodelviewer_lt.png": "/static/media/project_pbrmodelviewer_lt.42f647b38dbabd250537.png",
+    "static/media/project_skinningdatagenerator_menu.png": "/static/media/project_skinningdatagenerator_menu.01588f002db05203bb48.png",
+    "static/media/project_pbrmodelviewer_tg.png": "/static/media/project_pbrmodelviewer_tg.e2248b03f8b026839635.png",
+    "static/media/project_skinningdatagenerator.png": "/static/media/project_skinningdatagenerator.419c6b31fda11dcfcdfe.png",
     "static/media/project_svizz_ico2.png": "/static/media/project_svizz_ico2.160d55cb66e3e243345d.png",
     "index.html": "/index.html",
     "main.345d08ea.css.map": "/static/css/main.345d08ea.css.map",
-    "main.e99c54ac.js.map": "/static/js/main.e99c54ac.js.map"
+    "main.83aebcbd.js.map": "/static/js/main.83aebcbd.js.map"
   },
   "entrypoints": [
     "static/css/main.345d08ea.css",
-    "static/js/main.e99c54ac.js"
+    "static/js/main.83aebcbd.js"
   ]
 }
