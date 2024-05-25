@@ -1,13 +1,15 @@
 {
   "files": {
     "main.css": "/static/css/main.345d08ea.css",
-    "main.js": "/static/js/main.83aebcbd.js",
-    "static/media/project_pbrmodelviewer.png": "/static/media/project_pbrmodelviewer.e1633fb048a6dd19caa2.png",
+    "main.js": "/static/js/main.13a09d5b.js",
+    "static/media/project_pbrmodelviewer_ico.gif": "/static/media/project_pbrmodelviewer_ico.03777eae78a524423438.gif",
+    "static/media/project_skinningdatagenerator_ico.gif": "/static/media/project_skinningdatagenerator_ico.261698ccd136bcdcfde5.gif",
+    "static/media/project_pbrmodelviewer_static.png": "/static/media/project_pbrmodelviewer_static.9c6298406447dd54829f.png",
     "static/media/splashscreen.png": "/static/media/splashscreen.a8a8788e08a1172f6b7d.png",
+    "static/media/project_svizz_ico.gif": "/static/media/project_svizz_ico.aa60f0564639c0cf1d4c.gif",
     "static/media/project_svizz_ico3.png": "/static/media/project_svizz_ico3.55bf7dec014cf21538d0.png",
     "static/media/project_skinningdatagenerator_loaded.png": "/static/media/project_skinningdatagenerator_loaded.5cbb481212e393317220.png",
     "static/media/project_pbrmodelviewer2.png": "/static/media/project_pbrmodelviewer2.5ee701752c802bea1542.png",
-    "static/media/project_svizz_anim.gif": "/static/media/project_svizz_anim.da9c845aecb5693dba46.gif",
     "static/media/project_skinningdatagenerator_anim1.png": "/static/media/project_skinningdatagenerator_anim1.3ae2cf0a59c9759e7d3b.png",
     "static/media/project_skinningdatagenerator_anim2.png": "/static/media/project_skinningdatagenerator_anim2.06d8be9554efb140ecda.png",
     "static/media/project_skinningdatagenerator_anim0.png": "/static/media/project_skinningdatagenerator_anim0.8c07493aeac8fd6eeb2a.png",
@@ -16,14 +18,14 @@
     "static/media/project_pbrmodelviewer_lt.png": "/static/media/project_pbrmodelviewer_lt.42f647b38dbabd250537.png",
     "static/media/project_skinningdatagenerator_menu.png": "/static/media/project_skinningdatagenerator_menu.01588f002db05203bb48.png",
     "static/media/project_pbrmodelviewer_tg.png": "/static/media/project_pbrmodelviewer_tg.e2248b03f8b026839635.png",
-    "static/media/project_skinningdatagenerator.png": "/static/media/project_skinningdatagenerator.419c6b31fda11dcfcdfe.png",
-    "static/media/project_svizz_ico2.png": "/static/media/project_svizz_ico2.160d55cb66e3e243345d.png",
+    "static/media/project_skinningdatagenerator_static.png": "/static/media/project_skinningdatagenerator_static.7f95450b329e89f8c13f.png",
+    "static/media/project_svizz_ico_static.png": "/static/media/project_svizz_ico_static.ce56bfaf801c42b0ec88.png",
     "index.html": "/index.html",
     "main.345d08ea.css.map": "/static/css/main.345d08ea.css.map",
-    "main.83aebcbd.js.map": "/static/js/main.83aebcbd.js.map"
+    "main.13a09d5b.js.map": "/static/js/main.13a09d5b.js.map"
   },
   "entrypoints": [
     "static/css/main.345d08ea.css",
-    "static/js/main.83aebcbd.js"
+    "static/js/main.13a09d5b.js"
   ]
 }
