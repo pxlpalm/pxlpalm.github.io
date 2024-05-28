@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.345d08ea.css",
-    "main.js": "/static/js/main.a15ccc56.js",
+    "main.js": "/static/js/main.9b2f24a9.js",
     "static/media/ppenginev2_anim.gif": "/static/media/ppenginev2_anim.56f2bd02316696d596a2.gif",
     "static/media/project_pbrmodelviewer_ico.gif": "/static/media/project_pbrmodelviewer_ico.03777eae78a524423438.gif",
     "static/media/renderXbox1080p.png": "/static/media/renderXbox1080p.d999a6322f8e3e1145b8.png",
@@ -26,10 +26,10 @@
     "static/media/project_svizz_ico_static.png": "/static/media/project_svizz_ico_static.ce56bfaf801c42b0ec88.png",
     "index.html": "/index.html",
     "main.345d08ea.css.map": "/static/css/main.345d08ea.css.map",
-    "main.a15ccc56.js.map": "/static/js/main.a15ccc56.js.map"
+    "main.9b2f24a9.js.map": "/static/js/main.9b2f24a9.js.map"
   },
   "entrypoints": [
     "static/css/main.345d08ea.css",
-    "static/js/main.a15ccc56.js"
+    "static/js/main.9b2f24a9.js"
   ]
 }
