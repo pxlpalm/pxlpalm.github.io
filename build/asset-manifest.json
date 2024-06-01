@@ -1,0 +1,42 @@
+{
+  "files": {
+    "main.css": "/static/css/main.9734bda6.css",
+    "main.js": "/static/js/main.95c9afc6.js",
+    "static/media/ppenginev2_anim.gif": "/static/media/ppenginev2_anim.56f2bd02316696d596a2.gif",
+    "static/media/polypeelr3d_loadinganim.gif": "/static/media/polypeelr3d_loadinganim.e2edcbdff55e9b6d303c.gif",
+    "static/media/project_polypeelr_ico.gif": "/static/media/project_polypeelr_ico.8ecedbb804894ab9f761.gif",
+    "static/media/project_pbrmodelviewer_ico.gif": "/static/media/project_pbrmodelviewer_ico.03777eae78a524423438.gif",
+    "static/media/renderXbox1080p.png": "/static/media/renderXbox1080p.d999a6322f8e3e1145b8.png",
+    "static/media/ppenginev2_static.png": "/static/media/ppenginev2_static.2fba2c0854c01a092c42.png",
+    "static/media/renderStates.png": "/static/media/renderStates.3dcdf5028c3249ed24a3.png",
+    "static/media/project_skinningdatagenerator_ico.gif": "/static/media/project_skinningdatagenerator_ico.261698ccd136bcdcfde5.gif",
+    "static/media/project_polypeelrmax.png": "/static/media/project_polypeelrmax.cc87985ff41c07cdd087.png",
+    "static/media/project_polypeelrtemplate.png": "/static/media/project_polypeelrtemplate.2245867ec78c63cd6468.png",
+    "static/media/project_pbrmodelviewer_static.png": "/static/media/project_pbrmodelviewer_static.9c6298406447dd54829f.png",
+    "static/media/splashscreen.png": "/static/media/splashscreen.a8a8788e08a1172f6b7d.png",
+    "static/media/project_svizz_ico.gif": "/static/media/project_svizz_ico.aa60f0564639c0cf1d4c.gif",
+    "static/media/polypeelr3d_loadinganim_static.png": "/static/media/polypeelr3d_loadinganim_static.34f322568c180efa4400.png",
+    "static/media/project_svizz_ico3.png": "/static/media/project_svizz_ico3.55bf7dec014cf21538d0.png",
+    "static/media/project_skinningdatagenerator_loaded.png": "/static/media/project_skinningdatagenerator_loaded.5cbb481212e393317220.png",
+    "static/media/project_pbrmodelviewer2.png": "/static/media/project_pbrmodelviewer2.5ee701752c802bea1542.png",
+    "static/media/project_polypeelr_static.png": "/static/media/project_polypeelr_static.ab692dde5e26fe3fbc1c.png",
+    "static/media/project_skinningdatagenerator_anim1.png": "/static/media/project_skinningdatagenerator_anim1.3ae2cf0a59c9759e7d3b.png",
+    "static/media/project_skinningdatagenerator_anim2.png": "/static/media/project_skinningdatagenerator_anim2.06d8be9554efb140ecda.png",
+    "static/media/project_polypeelrmin.png": "/static/media/project_polypeelrmin.84ab1886edcd3a0f2804.png",
+    "static/media/project_skinningdatagenerator_anim0.png": "/static/media/project_skinningdatagenerator_anim0.8c07493aeac8fd6eeb2a.png",
+    "static/media/project_pbrmodelviewer_ao.png": "/static/media/project_pbrmodelviewer_ao.6e40081c4223ab6ab87c.png",
+    "static/media/project_pbrmodelviewer_lt.png": "/static/media/project_pbrmodelviewer_lt.42f647b38dbabd250537.png",
+    "static/media/project_skinningdatagenerator_menu.png": "/static/media/project_skinningdatagenerator_menu.01588f002db05203bb48.png",
+    "static/media/project_polypeelrloader.png": "/static/media/project_polypeelrloader.3b57539a1f1ab18db889.png",
+    "static/media/project_pbrmodelviewer_tg.png": "/static/media/project_pbrmodelviewer_tg.e2248b03f8b026839635.png",
+    "static/media/project_skinningdatagenerator_static.png": "/static/media/project_skinningdatagenerator_static.7f95450b329e89f8c13f.png",
+    "static/media/project_svizz_ico_static.png": "/static/media/project_svizz_ico_static.ce56bfaf801c42b0ec88.png",
+    "index.html": "/index.html",
+    "main.9734bda6.css.map": "/static/css/main.9734bda6.css.map",
+    "main.95c9afc6.js.map": "/static/js/main.95c9afc6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9734bda6.css",
+    "static/js/main.95c9afc6.js"
+  ]
+}

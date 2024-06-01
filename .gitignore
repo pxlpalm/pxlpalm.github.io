@@ -1,0 +1,12 @@
+# Ignore everything
+*
+
+# Do not ignore .gitignore file itself
+!.gitignore
+
+# Only Build
+!/build/
+!/build/**
+
+# Readme
+!README.md
