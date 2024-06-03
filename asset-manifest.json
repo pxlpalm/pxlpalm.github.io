@@ -1,13 +1,14 @@
 {
   "files": {
     "main.css": "/static/css/main.9734bda6.css",
-    "main.js": "/static/js/main.95c9afc6.js",
+    "main.js": "/static/js/main.4fbc19c3.js",
     "static/media/ppenginev2_anim.gif": "/static/media/ppenginev2_anim.56f2bd02316696d596a2.gif",
     "static/media/polypeelr3d_loadinganim.gif": "/static/media/polypeelr3d_loadinganim.e2edcbdff55e9b6d303c.gif",
     "static/media/project_polypeelr_ico.gif": "/static/media/project_polypeelr_ico.8ecedbb804894ab9f761.gif",
     "static/media/project_pbrmodelviewer_ico.gif": "/static/media/project_pbrmodelviewer_ico.03777eae78a524423438.gif",
     "static/media/renderXbox1080p.png": "/static/media/renderXbox1080p.d999a6322f8e3e1145b8.png",
     "static/media/ppenginev2_static.png": "/static/media/ppenginev2_static.2fba2c0854c01a092c42.png",
+    "static/media/polypeelr3d_paintinganim.gif": "/static/media/polypeelr3d_paintinganim.18ca957091afa0e3eef4.gif",
     "static/media/renderStates.png": "/static/media/renderStates.3dcdf5028c3249ed24a3.png",
     "static/media/project_skinningdatagenerator_ico.gif": "/static/media/project_skinningdatagenerator_ico.261698ccd136bcdcfde5.gif",
     "static/media/project_polypeelrmax.png": "/static/media/project_polypeelrmax.cc87985ff41c07cdd087.png",
@@ -16,6 +17,7 @@
     "static/media/splashscreen.png": "/static/media/splashscreen.a8a8788e08a1172f6b7d.png",
     "static/media/project_svizz_ico.gif": "/static/media/project_svizz_ico.aa60f0564639c0cf1d4c.gif",
     "static/media/polypeelr3d_loadinganim_static.png": "/static/media/polypeelr3d_loadinganim_static.34f322568c180efa4400.png",
+    "static/media/polypeelr3d_paintinganim_static.png": "/static/media/polypeelr3d_paintinganim_static.28cbbc82097fa2cb8b90.png",
     "static/media/project_svizz_ico3.png": "/static/media/project_svizz_ico3.55bf7dec014cf21538d0.png",
     "static/media/project_skinningdatagenerator_loaded.png": "/static/media/project_skinningdatagenerator_loaded.5cbb481212e393317220.png",
     "static/media/project_pbrmodelviewer2.png": "/static/media/project_pbrmodelviewer2.5ee701752c802bea1542.png",
@@ -33,10 +35,10 @@
     "static/media/project_svizz_ico_static.png": "/static/media/project_svizz_ico_static.ce56bfaf801c42b0ec88.png",
     "index.html": "/index.html",
     "main.9734bda6.css.map": "/static/css/main.9734bda6.css.map",
-    "main.95c9afc6.js.map": "/static/js/main.95c9afc6.js.map"
+    "main.4fbc19c3.js.map": "/static/js/main.4fbc19c3.js.map"
   },
   "entrypoints": [
     "static/css/main.9734bda6.css",
-    "static/js/main.95c9afc6.js"
+    "static/js/main.4fbc19c3.js"
   ]
 }
