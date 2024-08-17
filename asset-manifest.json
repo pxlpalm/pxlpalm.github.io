@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.9734bda6.css",
-    "main.js": "/static/js/main.581d3be6.js",
+    "main.js": "/static/js/main.bc9387eb.js",
     "static/media/ppenginev2_anim.gif": "/static/media/ppenginev2_anim.56f2bd02316696d596a2.gif",
     "static/media/polypeelr3d_loadinganim.gif": "/static/media/polypeelr3d_loadinganim.e2edcbdff55e9b6d303c.gif",
     "static/media/project_polypeelr_ico.gif": "/static/media/project_polypeelr_ico.8ecedbb804894ab9f761.gif",
@@ -43,6 +43,8 @@
     "static/media/ppEngineSimplePhysicsStatic.webp": "/static/media/ppEngineSimplePhysicsStatic.a4ea6c9942b0f09d6361.webp",
     "static/media/polypeelr3d_paintinganim_static.webp": "/static/media/polypeelr3d_paintinganim_static.0844444dd86904780f55.webp",
     "static/media/project_svizz_ico3.webp": "/static/media/project_svizz_ico3.df7dd8aea8e30eb24e38.webp",
+    "static/media/pixelizedTreeTriangles.webp": "/static/media/pixelizedTreeTriangles.85bce394bf7b702b41d7.webp",
+    "static/media/pixelizedTreeNormal.webp": "/static/media/pixelizedTreeNormal.cf8571d26dd69571619d.webp",
     "static/media/project_skinningdatagenerator_static.webp": "/static/media/project_skinningdatagenerator_static.f716d57f2c3e7c9d0a72.webp",
     "static/media/project_skinningdatagenerator_anim2.webp": "/static/media/project_skinningdatagenerator_anim2.9620bc204d74c30e20da.webp",
     "static/media/project_skinningdatagenerator_anim1.webp": "/static/media/project_skinningdatagenerator_anim1.6ab871ae96c3e7ca7faa.webp",
@@ -53,6 +55,7 @@
     "static/media/project_skinningdatagenerator_menu.webp": "/static/media/project_skinningdatagenerator_menu.3ae049e968c88cca11d5.webp",
     "static/media/splashscreen.webp": "/static/media/splashscreen.1ae47e8a4a1bf9029004.webp",
     "static/media/project_polypeelrloader.webp": "/static/media/project_polypeelrloader.95af8a0497cac5470eb0.webp",
+    "static/media/pixelizedTree.webp": "/static/media/pixelizedTree.74531c2fafd9f69c2ee2.webp",
     "static/media/project_svizz_ico_static.webp": "/static/media/project_svizz_ico_static.5155ae46e90d06f578cb.webp",
     "static/media/project_polypeelr_static.webp": "/static/media/project_polypeelr_static.8631f298c09d5240c8e9.webp",
     "static/media/project_svizz_onlyedge.webp": "/static/media/project_svizz_onlyedge.9aac04e253fc0572fe1d.webp",
@@ -65,10 +68,10 @@
     "static/media/project_svizz_onlyvertexpoints.webp": "/static/media/project_svizz_onlyvertexpoints.bd2626a31c30697f24ab.webp",
     "index.html": "/index.html",
     "main.9734bda6.css.map": "/static/css/main.9734bda6.css.map",
-    "main.581d3be6.js.map": "/static/js/main.581d3be6.js.map"
+    "main.bc9387eb.js.map": "/static/js/main.bc9387eb.js.map"
   },
   "entrypoints": [
     "static/css/main.9734bda6.css",
-    "static/js/main.581d3be6.js"
+    "static/js/main.bc9387eb.js"
   ]
 }
