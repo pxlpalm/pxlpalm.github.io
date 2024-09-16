@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.9734bda6.css",
-    "main.js": "/static/js/main.86d11132.js",
+    "main.js": "/static/js/main.a3b25e58.js",
     "static/media/ppenginev2_anim.gif": "/static/media/ppenginev2_anim.56f2bd02316696d596a2.gif",
     "static/media/polypeelr3d_loadinganim.gif": "/static/media/polypeelr3d_loadinganim.e2edcbdff55e9b6d303c.gif",
     "static/media/ppengine_physics_car0.gif": "/static/media/ppengine_physics_car0.b4ce7594b942acf398a9.gif",
@@ -105,10 +105,10 @@
     "static/media/project_svizz_onlyvertexpoints.webp": "/static/media/project_svizz_onlyvertexpoints.bd2626a31c30697f24ab.webp",
     "index.html": "/index.html",
     "main.9734bda6.css.map": "/static/css/main.9734bda6.css.map",
-    "main.86d11132.js.map": "/static/js/main.86d11132.js.map"
+    "main.a3b25e58.js.map": "/static/js/main.a3b25e58.js.map"
   },
   "entrypoints": [
     "static/css/main.9734bda6.css",
-    "static/js/main.86d11132.js"
+    "static/js/main.a3b25e58.js"
   ]
 }
